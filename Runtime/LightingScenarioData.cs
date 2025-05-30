@@ -124,7 +124,7 @@ public class SerializedRenderSettings
         RenderSettings.subtractiveShadowColor = subtractiveShadowColor;
 
         RenderSettings.sun = sun;
-        RenderSettings.customReflection = customReflection;
+        RenderSettings.customReflectionTexture = customReflection;
         RenderSettings.skybox = skybox;
     }
 }
