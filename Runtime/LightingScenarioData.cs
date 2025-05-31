@@ -80,7 +80,7 @@ public class SerializedRenderSettings
         subtractiveShadowColor = RenderSettings.subtractiveShadowColor;
 
         sun = RenderSettings.sun;
-        customReflection = RenderSettings.customReflection;
+        customReflection = RenderSettings.customReflectionTexture;
         skybox = RenderSettings.skybox;
 
         hasRenderSettings = true;
